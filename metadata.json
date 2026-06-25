@@ -1,0 +1,6 @@
+{
+  "name": "Aegis AI",
+  "description": "An advanced, autonomous productivity and execution engine that triages tasks, restructures schedules, and executes preparatory sub-tasks to ensure zero missed deadlines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
